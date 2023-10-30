@@ -42,7 +42,7 @@ const columns: Column<DataType>[] = [
 
 const arr: DataType[] = [
   {
-    user: "Charas",
+    user: "abcd",
     amount: 4500,
     discount: 400,
     quantity: 3,
